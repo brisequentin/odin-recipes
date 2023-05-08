@@ -1,0 +1,18 @@
+ul {
+    background-color: #1F2937;
+    color: white;
+
+    display:flex;
+    justify-content: space-between;
+}
+
+.left {
+    display:flex;
+}
+
+.right {
+    display:flex;
+
+}
+
+
